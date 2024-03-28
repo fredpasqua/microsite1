@@ -6,18 +6,19 @@ function App() {
   var fetchData = () => {
     fetch("https://dummyjson.com/users/")
       .then((res) => res.json())
-      .then((json) => setData(json))
-      .then(console.log(data));
+      .then((json) => setData(json));
   };
 
   useEffect(() => {
     fetchData();
+    console.log(data);
   }, []);
+
   return (
     <div className="App">
       <header className="App-header">
         <section className="header">NEMC School Microsites Directory</section>
-        <SchoolComponent users={data}></SchoolComponent>
+        <SchoolComponent data={data}></SchoolComponent>
       </header>
     </div>
   );

@@ -1,22 +1,12 @@
 import "./schoolComponent.css";
-import { useState } from "react";
-function SchoolComponent(users) {
-  let getUsers = () => {
-  users != null ? 
- let data = users : null;}
 
- getUsers();
+function SchoolComponent() {
   return (
     <div className="App">
       <div className="schoolComponent">
         <ul>
-          {data.map((user) => (
-            <li key={data.id}>
-              <h2>
-                {data.firstName} {dat.lastName}
-              </h2>
-           
-            </li>
+          {props.map((user) => (
+            <li key={user.id}></li>
           ))}
         </ul>
         <div className="infoBox">Another Div</div>
