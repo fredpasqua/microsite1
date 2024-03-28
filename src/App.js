@@ -1,22 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
-
+import "./App.css";
+import { useEffect, useState } from "react";
+import SchoolComponent from "./Components/schoolComponent";
 function App() {
+  const [data, setData] = useState();
+  var fetchData = () => {
+    fetch("https://dummyjson.com/users/")
+      .then((res) => res.json())
+      .then((json) => setData(json))
+      .then(console.log(data));
+  };
+
+  useEffect(() => {
+    fetchData();
+  }, []);
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <section className="header">NEMC School Microsites Directory</section>
+        <SchoolComponent users={data}></SchoolComponent>
       </header>
     </div>
   );
