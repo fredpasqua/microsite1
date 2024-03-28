@@ -17,7 +17,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <section className="header">NEMC School Microsites Directory</section>
+        <section className="header">
+          NEMC School Microsites Directory{" "}
+          <a href="https://www.shopnemc.com">shopnemc</a>
+        </section>
         <SchoolComponent data={data}></SchoolComponent>
       </header>
     </div>
