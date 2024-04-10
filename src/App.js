@@ -1,15 +1,14 @@
+import React from "react";
 import "./App.css";
+import SchoolList from "./Components/SchoolList";
+import data from "./data.json";
 
-import SchoolComponent2 from "./Components/schoolComponent2";
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <section className="header">
-          NEMC School Microsites Directory{" "}
-          <a href="https://www.shopnemc.com">shopnemc</a>
-        </section>
-        <SchoolComponent2></SchoolComponent2>
+        <h1>Schools and Band Accessories</h1>
+        <SchoolList data={data.data} />
       </header>
     </div>
   );
