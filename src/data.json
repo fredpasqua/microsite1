@@ -5,7 +5,7 @@
     "School": "Cedar Creek Elementary School",
     "Name": "Cedar Creek Elementary School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Cedar-Creek-Elementary-School",
+    "URL_Suffix": "Cedar-Creek-Elementary-School",
     "URL": "https://www.shopnemc.com/category/Cedar-Creek-Elementary-School"
   },
   {
@@ -14,7 +14,7 @@
     "School": "Lacey Township Middle School",
     "Name": "Lacey Township Middle School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Lacey-Township-Middle",
+    "URL_Suffix": "Lacey-Township-Middle",
     "URL": "https://www.shopnemc.com/category/Lacey-Township-Middle"
   },
   {
@@ -23,7 +23,7 @@
     "School": "Lacey Township High School",
     "Name": "Lacey Township High School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Lacey-Township-High",
+    "URL_Suffix": "Lacey-Township-High",
     "URL": "https://www.shopnemc.com/category/Lacey-Township-High"
   },
   {
@@ -32,7 +32,7 @@
     "School": "Lanoka Harbor Elementary School",
     "Name": "Lanoka Harbor Elementary School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Lanoka-Harbor-Elementary-School",
+    "URL_Suffix": "Lanoka-Harbor-Elementary-School",
     "URL": "https://www.shopnemc.com/category/Lanoka-Harbor-Elementary-School"
   },
   {
@@ -41,7 +41,7 @@
     "School": "Warwick Valley Middle School",
     "Name": "Warwick Valley Middle School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Warwick-Valley-Middle",
+    "URL_Suffix": "Warwick-Valley-Middle",
     "URL": "https://www.shopnemc.com/category/Warwick-Valley-Middle"
   },
   {
@@ -50,7 +50,7 @@
     "School": "North Rockland CSD",
     "Name": "North Rockland CSD Beginner Band and Orchestra  (invisible)",
     "SubHeading": "Band  & Orchestra Accessories",
-    "Delete": "North-Rockland-CSD-Beginner-Band-Orchestra",
+    "URL_Suffix": "North-Rockland-CSD-Beginner-Band-Orchestra",
     "URL": "https://www.shopnemc.com/category/North-Rockland-CSD-Beginner-Band-Orchestra"
   },
   {
@@ -59,7 +59,7 @@
     "School": "Neptune Middle School",
     "Name": "Neptune Middle School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Neptune-Middle-School",
+    "URL_Suffix": "Neptune-Middle-School",
     "URL": "https://www.shopnemc.com/category/Neptune-Middle-School"
   },
   {
@@ -68,7 +68,7 @@
     "School": "Gables Elementary School",
     "Name": "Gables School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Gables-School",
+    "URL_Suffix": "Gables-School",
     "URL": "https://www.shopnemc.com/category/Gables-School"
   },
   {
@@ -77,7 +77,7 @@
     "School": "Summerfield Elementary School",
     "Name": "Summerfield School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Summerfield-School",
+    "URL_Suffix": "Summerfield-School",
     "URL": "https://www.shopnemc.com/category/Summerfield-School"
   },
   {
@@ -86,7 +86,7 @@
     "School": "Riverfront School",
     "Name": "Florence Township Riverfront School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Florence-Township-Riverfront",
+    "URL_Suffix": "Florence-Township-Riverfront",
     "URL": "https://www.shopnemc.com/category/Florence-Township-Riverfront"
   },
   {
@@ -95,7 +95,7 @@
     "School": "Rustin High School",
     "Name": "Rustin High School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Rustin-High-School",
+    "URL_Suffix": "Rustin-High-School",
     "URL": "https://www.shopnemc.com/category/Rustin-High-School"
   },
   {
@@ -104,7 +104,7 @@
     "School": "Nyack Middle School",
     "Name": "Nyack Middle School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Nyack-Middle-School",
+    "URL_Suffix": "Nyack-Middle-School",
     "URL": "https://www.shopnemc.com/category/Nyack-Middle-School"
   },
   {
@@ -113,7 +113,7 @@
     "School": "Warren Township Schools",
     "Name": "Warren Township Schools (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Warren-Township-Schools",
+    "URL_Suffix": "Warren-Township-Schools",
     "URL": "https://www.shopnemc.com/category/Warren-Township-Schools"
   },
   {
@@ -122,7 +122,7 @@
     "School": "Hillsborough Middle School",
     "Name": "Hillsborough Middle School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Hillsborough-Middle-School",
+    "URL_Suffix": "Hillsborough-Middle-School",
     "URL": "https://www.shopnemc.com/category/Hillsborough-Middle-School"
   },
   {
@@ -131,7 +131,7 @@
     "School": "Hillsborough High School",
     "Name": "Hillsborough High School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Hillsborough-High-School",
+    "URL_Suffix": "Hillsborough-High-School",
     "URL": "https://www.shopnemc.com/category/Hillsborough-High-School"
   },
   {
@@ -140,7 +140,7 @@
     "School": "Samuel M. Ridgway School",
     "Name": "Samuel M Ridgway Middle School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "SamuelMRidgwayMiddle-School",
+    "URL_Suffix": "SamuelMRidgwayMiddle-School",
     "URL": "https://www.shopnemc.com/category/SamuelMRidgwayMiddle-School"
   },
   {
@@ -149,7 +149,7 @@
     "School": "Hopewell Valley Central High School",
     "Name": "Hopewell Valley Central HS (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Hopewell-Valley-Central",
+    "URL_Suffix": "Hopewell-Valley-Central",
     "URL": "https://www.shopnemc.com/category/Hopewell-Valley-Central"
   },
   {
@@ -158,7 +158,7 @@
     "School": "Village Elementary School",
     "Name": "Village Elementary School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "ves",
+    "URL_Suffix": "ves",
     "URL": "https://www.shopnemc.com/category/ves"
   },
   {
@@ -167,7 +167,7 @@
     "School": "Maple Place School",
     "Name": "Maple Place (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "maple-place",
+    "URL_Suffix": "maple-place",
     "URL": "https://www.shopnemc.com/category/maple-place"
   },
   {
@@ -176,7 +176,7 @@
     "School": "Pascack Hills Schools",
     "Name": "Pascack Hills (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Pascack-Hills",
+    "URL_Suffix": "Pascack-Hills",
     "URL": "https://www.shopnemc.com/category/Pascack-Hills"
   },
   {
@@ -185,7 +185,7 @@
     "School": "Allentown High School",
     "Name": "Allentown High School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Allentown-High-School",
+    "URL_Suffix": "Allentown-High-School",
     "URL": "https://www.shopnemc.com/category/Allentown-High-School"
   },
   {
@@ -194,7 +194,7 @@
     "School": "Neptune Elementary Schools",
     "Name": "Neptune Elementary Schools (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Neptune-ES",
+    "URL_Suffix": "Neptune-ES",
     "URL": "https://www.shopnemc.com/category/Neptune-ES"
   },
   {
@@ -203,7 +203,7 @@
     "School": "Russel O Brackman Middle School",
     "Name": "Russell O Brackman Middle School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "ROBMS-BAND",
+    "URL_Suffix": "ROBMS-BAND",
     "URL": "https://www.shopnemc.com/category/ROBMS-BAND"
   },
   {
@@ -212,7 +212,7 @@
     "School": "Barnegat High School",
     "Name": "Barnegat HS Band (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Barnegat-HS-Band",
+    "URL_Suffix": "Barnegat-HS-Band",
     "URL": "https://www.shopnemc.com/category/Barnegat-HS-Band"
   },
   {
@@ -221,7 +221,7 @@
     "School": "Fountain Woods Elementary School",
     "Name": "Fountain Woods Elementary School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Fountain-Woods-Elementary",
+    "URL_Suffix": "Fountain-Woods-Elementary",
     "URL": "https://www.shopnemc.com/category/Fountain-Woods-Elementary"
   },
   {
@@ -230,7 +230,7 @@
     "School": "Cherry Hill Elementary Schools",
     "Name": "Cherry Hill Schools Accessory Page (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "CHSCHOOLS",
+    "URL_Suffix": "CHSCHOOLS",
     "URL": "https://www.shopnemc.com/category/CHSCHOOLS"
   },
   {
@@ -239,7 +239,7 @@
     "School": "Monroe Township Schools",
     "Name": "Monroe Twp Percussion Accessories Order Form (invisible)",
     "SubHeading": "Percussion Accessories",
-    "Delete": "MonroeTwpPercussion",
+    "URL_Suffix": "MonroeTwpPercussion",
     "URL": "https://www.shopnemc.com/category/MonroeTwpPercussion"
   },
   {
@@ -248,7 +248,7 @@
     "School": "Crossroads South Middle School",
     "Name": "Crossroads South Middle School - Percussion (invisible)",
     "SubHeading": "Percussion Accessories",
-    "Delete": "CRSouthPercussion",
+    "URL_Suffix": "CRSouthPercussion",
     "URL": "https://www.shopnemc.com/category/CRSouthPercussion"
   },
   {
@@ -257,7 +257,7 @@
     "School": "Hartford School",
     "Name": "HARTFORD-MTLAUREL",
     "SubHeading": "Band & Orchestra Accessories",
-    "Delete": "HARTFORD-MTLAUREL",
+    "URL_Suffix": "HARTFORD-MTLAUREL",
     "URL": "https://www.shopnemc.com/category/HARTFORD-MTLAUREL"
   },
   {
@@ -266,7 +266,7 @@
     "School": "Donahue Elementary School",
     "Name": "Donahue Elementary Band Page",
     "SubHeading": "Band Accessories",
-    "Delete": "DonahueBandPage",
+    "URL_Suffix": "DonahueBandPage",
     "URL": "https://www.shopnemc.com/category/DonahueBandPage"
   },
   {
@@ -275,7 +275,7 @@
     "School": "Monroe Township Middle School",
     "Name": "Monroe Township Middle School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "Monroe-Township-Middle-School",
+    "URL_Suffix": "Monroe-Township-Middle-School",
     "URL": "https://www.shopnemc.com/category/Monroe-Township-Middle-School"
   },
   {
@@ -284,7 +284,7 @@
     "School": "Bragg School",
     "Name": "Bragg School (invisible)",
     "SubHeading": "Band Accessories",
-    "Delete": "bragg",
+    "URL_Suffix": "bragg",
     "URL": "https://www.shopnemc.com/category/bragg"
   },
   {
@@ -293,7 +293,7 @@
     "School": "Larchmont Elementary School",
     "Name": "Mount-Laurel-Reem (invisible)",
     "SubHeading": "Band & Orchestra Accessories",
-    "Delete": "Mount-Laurel-Reem",
+    "URL_Suffix": "Mount-Laurel-Reem",
     "URL": "https://www.shopnemc.com/category/Mount-Laurel-Reem"
   },
   {
@@ -302,7 +302,7 @@
     "School": "Middletown Elementary Schools",
     "Name": "Middletown Twp Percussion (invisible)",
     "SubHeading": "Percussion Accessories",
-    "Delete": "Middletown-Twp-Percussion",
+    "URL_Suffix": "Middletown-Twp-Percussion",
     "URL": "https://www.shopnemc.com/category/Middletown-Twp-Percussion"
   },
   {
@@ -311,7 +311,7 @@
     "School": "Countryside Elementary School",
     "Name": "Countryside-Parkway (invisible)",
     "SubHeading": "Band & Orchestra Accessories",
-    "Delete": "Countryside-Parkway",
+    "URL_Suffix": "Countryside-Parkway",
     "URL": "https://www.shopnemc.com/category/Countryside-Parkway"
   },
   {
@@ -320,7 +320,7 @@
     "School": "Crossroads North Middle School",
     "Name": "Crossroads North MS - Percussion (invisible)",
     "SubHeading": "Percussion Accessories",
-    "Delete": "CRNorthPercussion",
+    "URL_Suffix": "CRNorthPercussion",
     "URL": "https://www.shopnemc.com/category/CRNorthPercussion"
   },
   {
@@ -329,7 +329,7 @@
     "School": "Springville Elementary School",
     "Name": "Mount-Laurel-Reem (invisible)",
     "SubHeading": "Band & Orchestra Accessories",
-    "Delete": "Mount-Laurel-Reem",
+    "URL_Suffix": "Mount-Laurel-Reem",
     "URL": "https://www.shopnemc.com/category/Mount-Laurel-Reem"
   },
   {
@@ -338,7 +338,7 @@
     "School": "Parkway Elementary School",
     "Name": "Countryside-Parkway (invisible)",
     "SubHeading": "Band & Orchestra Accessories",
-    "Delete": "Countryside-Parkway",
+    "URL_Suffix": "Countryside-Parkway",
     "URL": "https://www.shopnemc.com/category/Countryside-Parkway"
   }
 ]
