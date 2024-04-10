@@ -1,19 +1,7 @@
 import "./App.css";
-import { useEffect, useState } from "react";
-import SchoolComponent from "./Components/schoolComponent";
+
+import SchoolComponent2 from "./Components/schoolComponent2";
 function App() {
-  const [data, setData] = useState();
-  var fetchData = () => {
-    fetch("https://dummyjson.com/users/")
-      .then((res) => res.json())
-      .then((json) => setData(json));
-  };
-
-  useEffect(() => {
-    fetchData();
-    console.log(data);
-  }, []);
-
   return (
     <div className="App">
       <header className="App-header">
@@ -21,7 +9,7 @@ function App() {
           NEMC School Microsites Directory{" "}
           <a href="https://www.shopnemc.com">shopnemc</a>
         </section>
-        <SchoolComponent data={data}></SchoolComponent>
+        <SchoolComponent2></SchoolComponent2>
       </header>
     </div>
   );
