@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+
 import SchoolList from "./Components/SchoolList";
 import data from "./data.json";
 
