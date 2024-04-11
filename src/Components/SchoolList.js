@@ -16,7 +16,7 @@ const SchoolList = (props) => {
       );
     }
   });
-  
+
   return (
     <div>
       {filteredData.map((school, index) => (
