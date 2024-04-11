@@ -36,7 +36,7 @@ const SchoolList = (props) => {
     }
   });
 
-  return filteredData.length > 1 ? (
+  return filteredData.length >= 1 ? (
     <div>
       {filteredData.map((school, index) => (
         <SchoolItem key={index} school={school} />
