@@ -1,6 +1,19 @@
 import React from "react";
 import SchoolItem from "./SchoolItem";
 import data from "../data.json";
+
+//function for alphabetize
+function compareStrings(a, b) {
+  a = a.toLowerCase();
+  b = b.toLowerCase();
+  return a < b ? -1 : a > b ? 1 : 0;
+}
+
+//alphabetize the list by City then by School Name
+data.sort(function (a, b) {
+  return compareStrings(a.City, b.City)&&(a.Name, b.Name);
+});
+
 const SchoolList = (props) => {
   //create a new array by filtering the original array
   const filteredData = data.filter((el) => {

@@ -1,5 +1,6 @@
 import React from "react";
 import "./SchoolItem.css";
+import Button from "@mui/material/Button";
 const SchoolItem = ({ school }) => {
   return (
     <div className="schoolBanner">
@@ -13,14 +14,9 @@ const SchoolItem = ({ school }) => {
       <div className="right-side">
         <h4 className="subheading">{school.SubHeading}</h4>
         <p>
-          <a
-            href={school.URL}
-            className="link"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <Button className="button" variant="contained" href={school.URL}>
             View Page
-          </a>
+          </Button>
         </p>
       </div>
     </div>

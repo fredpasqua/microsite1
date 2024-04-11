@@ -17,9 +17,7 @@
 }
 
 .right-side {
-    background-color: ba2222(210, 6, 6);
     display: flex;
-
     flex-direction: column;
     align-items: flex-end;
     text-align: right;
@@ -27,4 +25,13 @@
 
 .subheading {
     margin-right: 0 !important;
+}
+.button {
+    background-color: #ba2222 !important;
+    font-weight: bold !important;
+
+}
+
+.button:hover {
+    background-color: black !important;
 }
