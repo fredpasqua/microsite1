@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/microsite1/static/css/main.4c641f38.css",
+    "main.js": "/microsite1/static/js/main.61228186.js",
+    "static/js/453.ab5bbb53.chunk.js": "/microsite1/static/js/453.ab5bbb53.chunk.js",
+    "index.html": "/microsite1/index.html",
+    "main.4c641f38.css.map": "/microsite1/static/css/main.4c641f38.css.map",
+    "main.61228186.js.map": "/microsite1/static/js/main.61228186.js.map",
+    "453.ab5bbb53.chunk.js.map": "/microsite1/static/js/453.ab5bbb53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c641f38.css",
+    "static/js/main.61228186.js"
+  ]
+}
