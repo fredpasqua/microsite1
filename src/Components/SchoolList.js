@@ -12,7 +12,8 @@ const SchoolList = (props) => {
     else {
       return (
         el.Name.toLowerCase().includes(props.input) ||
-        el.City.toLowerCase().includes(props.input)
+        el.City.toLowerCase().includes(props.input) ||
+        el.SubHeading.toLowerCase().includes(props.input)
       );
     }
   });
