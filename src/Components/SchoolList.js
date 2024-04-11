@@ -4,11 +4,11 @@ import data from "../data.json";
 const SchoolList = (props) => {
   //create a new array by filtering the original array
   const filteredData = data.filter((el) => {
-    //if no input the return the original
+    //if no input then return the original
     if (props.input === "") {
       return el;
     }
-    //return the item which contains the user input
+    //return the item which contains the user input in Name or City
     else {
       return (
         el.Name.toLowerCase().includes(props.input) ||
@@ -16,6 +16,7 @@ const SchoolList = (props) => {
       );
     }
   });
+  
   return (
     <div>
       {filteredData.map((school, index) => (
