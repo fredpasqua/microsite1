@@ -10,8 +10,13 @@ function compareStrings(a, b) {
 }
 
 //alphabetize the list by City then by School Name
+
+
 data.sort(function (a, b) {
-  return compareStrings(a.City, b.City)&&(a.Name, b.Name);
+  return compareStrings(a.Name, b.Name);
+});
+data.sort(function (a, b) {
+  return compareStrings(a.City, b.City);
 });
 
 const SchoolList = (props) => {
@@ -31,12 +36,14 @@ const SchoolList = (props) => {
     }
   });
 
-  return (
+  return filteredData.length > 1 ? (
     <div>
       {filteredData.map((school, index) => (
         <SchoolItem key={index} school={school} />
       ))}
     </div>
+  ) : (
+    <div className="placeholder">sorry, no schools match your search</div>
   );
 };
 

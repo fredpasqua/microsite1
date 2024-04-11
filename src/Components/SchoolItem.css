@@ -35,3 +35,6 @@
 .button:hover {
     background-color: black !important;
 }
+.placeholder {
+    text-align: center
+}
