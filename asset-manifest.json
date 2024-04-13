@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/microsite1/static/css/main.4c641f38.css",
-    "main.js": "/microsite1/static/js/main.61228186.js",
+    "main.css": "/microsite1/static/css/main.74ed5d3d.css",
+    "main.js": "/microsite1/static/js/main.bc3f91ee.js",
     "static/js/453.ab5bbb53.chunk.js": "/microsite1/static/js/453.ab5bbb53.chunk.js",
+    "static/media/StoreToSchoolPlaceholder.jpg": "/microsite1/static/media/StoreToSchoolPlaceholder.a322d0cef87e80dc863d.jpg",
     "index.html": "/microsite1/index.html",
-    "main.4c641f38.css.map": "/microsite1/static/css/main.4c641f38.css.map",
-    "main.61228186.js.map": "/microsite1/static/js/main.61228186.js.map",
+    "main.74ed5d3d.css.map": "/microsite1/static/css/main.74ed5d3d.css.map",
+    "main.bc3f91ee.js.map": "/microsite1/static/js/main.bc3f91ee.js.map",
     "453.ab5bbb53.chunk.js.map": "/microsite1/static/js/453.ab5bbb53.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c641f38.css",
-    "static/js/main.61228186.js"
+    "static/css/main.74ed5d3d.css",
+    "static/js/main.bc3f91ee.js"
   ]
 }
