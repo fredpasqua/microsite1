@@ -12,13 +12,14 @@ function HeaderElement() {
         <section className="description">
           <div>
             <ul className="benefits">
-              <li>Free School Delivery in NJ</li>
-              <li>Free Home Shipping on order of $25 or more</li>
+              <li>Free Shipping on order of $25 or more</li>
               <li>Teacher Created School Accessory Lists</li>
               <li>Educator Approved Products</li>
               <li>Huge Selection</li>
               <li>Over 60 Years serving school programs</li>
-              <li>Got question? Chat with us now!</li>
+              <li>
+                Have questions? <a href="#">Chat with us now!</a>
+              </li>
             </ul>
           </div>
         </section>

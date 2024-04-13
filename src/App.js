@@ -13,14 +13,14 @@ function App() {
   return (
     <div className="App">
       <HeaderElement></HeaderElement>
-
+      <h2 className="searchHeader">Find Your School</h2>
       <div className="search">
         <TextField
           id="outlined-basic"
           onChange={inputHandler}
           variant="outlined"
           fullWidth
-          label="Find your school..."
+          label="search"
         />
       </div>
       <SchoolList input={inputText} />

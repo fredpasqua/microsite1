@@ -9,11 +9,12 @@
     border: 1px solid black;
         border-radius: 10px;
         margin-bottom: 5px;
+    
 }
 
 .schoolNameAddress {
     align-items: flex-start;
-    max-width: 25vw;
+    max-width: 45vw;
 }
 
 .right-side {
@@ -27,6 +28,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-top: 10px;
 }
 
 .repImage {
@@ -41,6 +43,7 @@
 }
 .subheading {
     margin-right: 0 !important;
+    position: relative;
 }
 .button {
     background-color: #ba2222 !important;
