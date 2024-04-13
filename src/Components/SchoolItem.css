@@ -22,7 +22,23 @@
     align-items: flex-end;
     text-align: right;
 }
+.repContactContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
+.repImage {
+    height: 74px;
+    border-radius: 100%;
+
+
+}
+
+.repEmail {
+    padding: 5px;
+}
 .subheading {
     margin-right: 0 !important;
 }

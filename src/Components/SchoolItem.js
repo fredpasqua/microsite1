@@ -1,6 +1,7 @@
 import React from "react";
 import "./SchoolItem.css";
 import Button from "@mui/material/Button";
+import repImage from "../Images/head.jpeg";
 const SchoolItem = ({ school }) => {
   return (
     <div className="schoolBanner">
@@ -10,14 +11,23 @@ const SchoolItem = ({ school }) => {
         <p>
           {school.City}, {school.State}
         </p>
+        <h4 className="subheading">{school.SubHeading}</h4>
       </div>
       <div className="right-side">
-        <h4 className="subheading">{school.SubHeading}</h4>
-        <p>
+        <div className="repContactContainer">
+          <img
+            className="repImage"
+            src={repImage}
+            alt="sales representative"
+          ></img>
+          <a className="repEmail" href="#">
+            Email Your Rep
+          </a>
+
           <Button className="button" variant="contained" href={school.URL}>
             View Page
           </Button>
-        </p>
+        </div>
       </div>
     </div>
   );
