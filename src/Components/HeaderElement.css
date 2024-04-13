@@ -1,25 +1,25 @@
 .headerContainer {
-display: flex;
+    display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     background-color: #ff9900;
-    }
-        .topHeader {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-        }
-    
-        .description {
-            padding: 10px 30px 10px 30px;
-            font-weight: bold;
-            text-align: center;
-            max-width: 40%;
-        }
-    
-        .benefits li {
-            text-align: left;
+}
 
+.topHeader {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.description {
+    padding: 10px 30px 10px 30px;
+    font-weight: bold;
+    text-align: center;
+    max-width: 40%;
+}
+
+.benefits li {
+    text-align: left;
 }
 
 .benefits {
@@ -27,42 +27,37 @@ display: flex;
     padding: 30px;
     width: 50vw;
     font-size: larger;
-
 }
-.section1 {
 
-}
+
 .linkHeading {
-text-align: center;
+    text-align: center;
 }
-.categoryLinks {
 
-background-color: #ff9900;
-        }
-        
-        .categoryLinkButton {
-            background-color: orange;
-            border: 1px black solid;
-            text-align: center;
-            padding: 5px;
-            max-width: 100px;
-            margin: 10px;
-            border-radius: 20px;
-        }
-        
-        .button {
-            background-color: #ba2222 !important;
-            font-weight: bold !important;
-            color: white;
-            margin: 5px !important;
-        
-        
-        }
-        
-        
-.button:hover {
-            background-color: black !important;
+.categoryLinks {
+    background-color: #ff9900;
+    }
+    
+    .categoryLinkButton {
+        background-color: orange;
+        border: 1px black solid;
+        text-align: center;
+        padding: 5px;
+        max-width: 100px;
+        margin: 10px;
+        border-radius: 20px;
+    }
+    
+    .button {
+        background-color: #ba2222 !important;
+        font-weight: bold !important;
+        color: white;
+        margin: 5px !important;
 }
+.button:hover {
+    background-color: black !important;
+}
+
 .button-container {
     display: flex;
     flex-wrap: wrap;
