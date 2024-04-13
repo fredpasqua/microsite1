@@ -1,20 +1,43 @@
 .headerContainer {
-    width: 100%;
-    height: fit-content;
     display: flex;
-    flex-wrap: wrap;
-    background-color: green;
 
+    background-color: green;
+}
+
+.sectionContainer {
+    width: 100%;
 }
 
 .section1 {
+    max-width: 50%;
     border: 1px red solid;
-    width: 50%;
-    min-width: 360px;
+background-color: rgb(0, 0, 255);
 }
 
-.section2 {
+.categoryLinks {
+    max-width: 50%;
     border: 1px red solid;
-    width: 50%;
-    min-width: 360px;
+        background-color: rgb(255, 179, 0);
+        }
+        
+        .categoryLinkButton {
+            background-color: orange;
+            border: 1px black solid;
+            text-align: center;
+            padding: 5px;
+            max-width: 100px;
+            margin: 10px;
+            border-radius: 20px;
+        }
+        
+        .button {
+            background-color: #ba2222 !important;
+            font-weight: bold !important;
+            color: white;
+            
+        
+        }
+        
+        .button:hover {
+            background-color: black !important;
 }
