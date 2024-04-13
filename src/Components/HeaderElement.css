@@ -1,24 +1,43 @@
 .headerContainer {
-    display: flex;
+display: flex;
     flex-wrap: wrap;
-        justify-content: space-around;
-    background-color: green;
+    justify-content: space-around;
+    background-color: #ff9900;
+    }
+        .topHeader {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+    
+        .description {
+            padding: 10px 30px 10px 30px;
+            font-weight: bold;
+            text-align: center;
+            max-width: 40%;
+        }
+    
+        .benefits li {
+            text-align: left;
+
 }
 
+.benefits {
+    margin: auto;
+    padding: 30px;
+    width: 50vw;
+    font-size: larger;
 
-
+}
 .section1 {
 
-    border: 1px red solid;
-background-color: rgb(0, 0, 255);
 }
 .linkHeading {
-    text-align: center;
+text-align: center;
 }
 .categoryLinks {
 
-    border: 1px red solid;
-        background-color: rgb(255, 179, 0);
+background-color: #ff9900;
         }
         
         .categoryLinkButton {
@@ -37,8 +56,17 @@ background-color: rgb(0, 0, 255);
             color: white;
             margin: 5px !important;
         
+        
         }
         
-        .button:hover {
+        
+.button:hover {
             background-color: black !important;
+}
+.button-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
 }
