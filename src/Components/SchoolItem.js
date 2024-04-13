@@ -20,7 +20,10 @@ const SchoolItem = ({ school }) => {
             src={repImage}
             alt="sales representative"
           ></img>
-          <a className="repEmail" href="#">
+          <a
+            className="repEmail"
+            href="mailto:sales@nemc.com?Subject=Help%20with%20accessory%20purchase"
+          >
             Email Your Rep
           </a>
 
