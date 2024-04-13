@@ -1,0 +1,20 @@
+.headerContainer {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: green;
+
+}
+
+.section1 {
+    border: 1px red solid;
+    width: 50%;
+    min-width: 360px;
+}
+
+.section2 {
+    border: 1px red solid;
+    width: 50%;
+    min-width: 360px;
+}

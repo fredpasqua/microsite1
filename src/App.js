@@ -1,8 +1,8 @@
 import { React, useState } from "react";
-
 import TextField from "@mui/material/TextField";
 import SchoolList from "./Components/SchoolList";
 import "./App.css";
+import HeaderElement from "./Components/HeaderElement.js";
 function App() {
   const [inputText, setInputText] = useState("");
   let inputHandler = (e) => {
@@ -12,19 +12,17 @@ function App() {
   };
   return (
     <div className="App">
-      <header className="App-header">
-        <h1 className="heading">School Landing Pages</h1>
-        <div className="search">
-          <TextField
-            id="outlined-basic"
-            onChange={inputHandler}
-            variant="outlined"
-            fullWidth
-            label="Search"
-          />
-        </div>
-        <SchoolList input={inputText} />
-      </header>
+      <HeaderElement></HeaderElement>
+      <div className="search">
+        <TextField
+          id="outlined-basic"
+          onChange={inputHandler}
+          variant="outlined"
+          fullWidth
+          label="Search"
+        />
+      </div>
+      <SchoolList input={inputText} />
     </div>
   );
 }
