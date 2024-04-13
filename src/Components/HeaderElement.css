@@ -1,21 +1,22 @@
 .headerContainer {
     display: flex;
-
+    flex-wrap: wrap;
+        justify-content: space-around;
     background-color: green;
 }
 
-.sectionContainer {
-    width: 100%;
-}
+
 
 .section1 {
-    max-width: 50%;
+
     border: 1px red solid;
 background-color: rgb(0, 0, 255);
 }
-
+.linkHeading {
+    text-align: center;
+}
 .categoryLinks {
-    max-width: 50%;
+
     border: 1px red solid;
         background-color: rgb(255, 179, 0);
         }
@@ -34,7 +35,7 @@ background-color: rgb(0, 0, 255);
             background-color: #ba2222 !important;
             font-weight: bold !important;
             color: white;
-            
+            margin: 5px !important;
         
         }
         
