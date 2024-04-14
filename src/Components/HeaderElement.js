@@ -40,15 +40,15 @@ function HeaderElement() {
               High School Band
             </Button>{" "}
             <Button variant="contained" href={"#"} className="button">
-              Elementary Strings
+              Elementary Orch.
             </Button>{" "}
           </div>
           <div className="button-container-two">
             <Button variant="contained" href={"#"} className="button">
-              Middle School Strings
+              MS Orchestra
             </Button>{" "}
             <Button variant="contained" href={"#"} className="button">
-              High School Strings
+              HS Orchestra
             </Button>{" "}
             <Button variant="contained" href={"#"} className="button">
               Jazz Band
