@@ -1,3 +1,9 @@
+:root {
+    --brandOrange: #ff9900;
+
+
+    --white: #ffffff;
+}
 .heading {
     text-align: center;
 }
