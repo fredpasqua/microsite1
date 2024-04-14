@@ -18,7 +18,7 @@ function HeaderElement() {
               <li>Huge Selection</li>
               <li>Over 60 Years serving school programs</li>
               <li>
-                Have questions? <a href="#">Chat with us now!</a>
+                Have questions? <a href="sales@nemc.com">Chat with us now!</a>
               </li>
             </ul>
           </div>
