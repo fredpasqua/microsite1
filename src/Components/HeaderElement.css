@@ -1,5 +1,4 @@
 .headerContainer {
-
     background-color: #ff9900;
 }
 
@@ -7,16 +6,16 @@
     display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
-        border: 1px red solid;
+    border: 1px red solid;
         justify-content: space-between;
 }
 
 .description {
     padding: 10px 30px 10px 30px;
     font-weight: bold;
-font-size: calc(1vw + 1vh);
-text-align: center;
-margin-right: auto;
+    font-size: calc(1vw + 1vh);
+        text-align: center;
+        margin-right: auto;
     margin-left: auto;
 }
 
@@ -67,6 +66,7 @@ margin-right: auto;
     flex-wrap: wrap;
     justify-content: space-around;
 }
+
 .section1 img {
     width: 300px;
 }
