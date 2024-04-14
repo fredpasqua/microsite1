@@ -12,10 +12,8 @@ function HeaderElement() {
         <section className="description">
           <div>
             <ul className="benefits">
-              <li>Free Shipping on order of $25 or more</li>
+              <li>Free Shipping orders over $25</li>
               <li>Teacher Created School Accessory Lists</li>
-              <li>Educator Approved Products</li>
-              <li>Huge Selection</li>
               <li>Over 60 Years serving school programs</li>
               <li>
                 Have questions? <a href="sales@nemc.com">Chat with us now!</a>
