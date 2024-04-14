@@ -1,7 +1,7 @@
 import React from "react";
 import SchoolItem from "./SchoolItem";
 import data from "../data.json";
-
+import { Button } from "@mui/material";
 //function for alphabetize
 function compareStrings(a, b) {
   a = a.toLowerCase();
@@ -10,7 +10,6 @@ function compareStrings(a, b) {
 }
 
 //alphabetize the list by City then by School Name
-
 
 data.sort(function (a, b) {
   return compareStrings(a.Name, b.Name);
@@ -43,7 +42,45 @@ const SchoolList = (props) => {
       ))}
     </div>
   ) : (
-    <div className="placeholder">sorry, no schools match your search</div>
+    <>
+      {" "}
+      <div className="placeholder">No schools match your search</div>
+      <section className="categoryLinks">
+        <div>
+          <h2 className="linkHeading">Shop By Category</h2>
+        </div>
+        <div className="button-container">
+          <div className="button-container-one">
+            <Button variant="contained" href={"#"} className="button">
+              Elementary Band
+            </Button>{" "}
+            <Button variant="contained" href={"#"} className="button">
+              Middle School Band
+            </Button>{" "}
+            <Button variant="contained" href={"#"} className="button">
+              High School Band
+            </Button>{" "}
+            <Button variant="contained" href={"#"} className="button">
+              Elementary Orch.
+            </Button>{" "}
+          </div>
+          <div className="button-container-two">
+            <Button variant="contained" href={"#"} className="button">
+              MS Orchestra
+            </Button>{" "}
+            <Button variant="contained" href={"#"} className="button">
+              HS Orchestra
+            </Button>{" "}
+            <Button variant="contained" href={"#"} className="button">
+              Jazz Band
+            </Button>
+            <Button variant="contained" href={"#"} className="button">
+              Marching Band
+            </Button>
+          </div>
+        </div>
+      </section>
+    </>
   );
 };
 

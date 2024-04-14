@@ -55,5 +55,6 @@
     background-color: black !important;
 }
 .placeholder {
-    text-align: center
+    text-align: center;
+        color: var(--brandRed)
 }
