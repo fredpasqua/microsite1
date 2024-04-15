@@ -16,7 +16,8 @@ function HeaderElement() {
               <li>Teacher Created School Accessory Lists</li>
               <li>Over 60 Years serving school programs</li>
               <li>
-                Have questions? <a href="sales@nemc.com">Chat with us now!</a>
+                Have questions?{" "}
+                <a href="mailto:sales@nemc.com">Chat with us now!</a>
               </li>
             </ul>
           </div>
