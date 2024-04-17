@@ -23,7 +23,9 @@ function App() {
           label="search"
         />
       </div>
-      <SchoolList input={inputText} />
+      <div className="searchContainer">
+        <SchoolList input={inputText} />
+      </div>
     </div>
   );
 }
