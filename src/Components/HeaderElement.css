@@ -24,15 +24,15 @@
 }
 .benefits li {
     text-align: left;
-    padding: 5px;
+    padding: 0px;
 }
 
 .benefits {
     margin: auto;
-    padding: 30px;
-    width: 50vw;
+    padding: 5px;
     font-size: larger;
     background-color: white;
+    line-height: 1.5em;
 }
 
 
