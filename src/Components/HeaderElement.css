@@ -46,7 +46,9 @@
 
 @media (max-width: 500px) {
     .section1 img {
-        width: 250spx;
+        width: 275px;
+            margin-left: auto;
+            margin-right: auto;
     }
 
     .topHeader {

@@ -8,8 +8,8 @@
     text-align: center;
 }
 .searchContainer {
-    border: 12px solid var(--brandRed);
-    width: 90vw;
+    border: 10px solid lightgrey;
+        width: 80vw;
     margin-left: auto;
     margin-right: auto;
     max-height: 60vh;
