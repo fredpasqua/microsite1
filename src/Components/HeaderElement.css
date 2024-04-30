@@ -39,12 +39,9 @@
 
 
 .section1 img {
-    width: 300px;
-    border-radius: 50px;
+    width: 400px;
     padding: 0px;
-        border: 3px var(--brandRed) solid;
-        margin: 20px;
-        filter: drop-shadow(4px 9px 10px #000000);
+    
 }
 
 @media (max-width: 500px) {

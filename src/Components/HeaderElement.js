@@ -1,7 +1,7 @@
 import React from "react";
 import "./HeaderElement.css";
 import Button from "@mui/material/Button";
-import HeaderImage from "../Images/StoreToSchoolPlaceholder.jpg";
+import HeaderImage from "../Images/StoreToSchoolLogo.png";
 function HeaderElement() {
   return (
     <div className="headerContainer">
