@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/microsite1/static/css/main.538a671a.css",
-    "main.js": "/microsite1/static/js/main.e3b49802.js",
+    "main.css": "/microsite1/static/css/main.d70ede6a.css",
+    "main.js": "/microsite1/static/js/main.fb2cfc49.js",
     "static/js/453.ab5bbb53.chunk.js": "/microsite1/static/js/453.ab5bbb53.chunk.js",
-    "static/media/StoreToSchoolPlaceholder.jpg": "/microsite1/static/media/StoreToSchoolPlaceholder.92e1e6ed10ec6c6e04be.jpg",
+    "static/media/StoreToSchoolLogo.png": "/microsite1/static/media/StoreToSchoolLogo.c89e3953675857e0df1e.png",
     "index.html": "/microsite1/index.html",
-    "main.538a671a.css.map": "/microsite1/static/css/main.538a671a.css.map",
-    "main.e3b49802.js.map": "/microsite1/static/js/main.e3b49802.js.map",
+    "main.d70ede6a.css.map": "/microsite1/static/css/main.d70ede6a.css.map",
+    "main.fb2cfc49.js.map": "/microsite1/static/js/main.fb2cfc49.js.map",
     "453.ab5bbb53.chunk.js.map": "/microsite1/static/js/453.ab5bbb53.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.538a671a.css",
-    "static/js/main.e3b49802.js"
+    "static/css/main.d70ede6a.css",
+    "static/js/main.fb2cfc49.js"
   ]
 }
