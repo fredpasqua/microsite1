@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/microsite1/static/css/main.0dcdd34c.css",
+    "main.css": "/microsite1/static/css/main.85beded4.css",
     "main.js": "/microsite1/static/js/main.fb2cfc49.js",
     "static/js/453.ab5bbb53.chunk.js": "/microsite1/static/js/453.ab5bbb53.chunk.js",
     "static/media/StoreToSchoolLogo.png": "/microsite1/static/media/StoreToSchoolLogo.c89e3953675857e0df1e.png",
     "index.html": "/microsite1/index.html",
-    "main.0dcdd34c.css.map": "/microsite1/static/css/main.0dcdd34c.css.map",
+    "main.85beded4.css.map": "/microsite1/static/css/main.85beded4.css.map",
     "main.fb2cfc49.js.map": "/microsite1/static/js/main.fb2cfc49.js.map",
     "453.ab5bbb53.chunk.js.map": "/microsite1/static/js/453.ab5bbb53.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0dcdd34c.css",
+    "static/css/main.85beded4.css",
     "static/js/main.fb2cfc49.js"
   ]
 }
