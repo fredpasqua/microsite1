@@ -39,14 +39,16 @@
 
 
 .section1 img {
-    width: 400px;
+    width: 360px;
     padding: 0px;
+    margin-left: auto;
+        margin-right: auto;
     
 }
 
 @media (max-width: 500px) {
     .section1 img {
-        width: 275px;
+        width: 300px;
             margin-left: auto;
             margin-right: auto;
     }
