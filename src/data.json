@@ -340,5 +340,32 @@
     "SubHeading": "Band & Orchestra Accessories",
     "URL_Suffix": "Countryside-Parkway",
     "URL": "https://www.shopnemc.com/category/Countryside-Parkway"
+  },
+  {
+    "City": "Mount Laurel",
+    "State": "NJ",
+    "School": "Hillside Elementary School",
+    "Name": "Fleetwood-Hillside (invisible)",
+    "SubHeading": "Band & Orchestra Accessories",
+    "URL_Suffix": "Fleetwood-Hillside",
+    "URL": "https://www.shopnemc.com/category/Fleetwood-Hillside"
+  },
+  {
+    "City": "Mount Laurel",
+    "State": "NJ",
+    "School": "Fleetwood Elementary School",
+    "Name": "Fleetwood-Hillside (invisible)",
+    "SubHeading": "Band & Orchestra Accessories",
+    "URL_Suffix": "Fleetwood-Hillside",
+    "URL": "https://www.shopnemc.com/category/Fleetwood-Hillside"
+  },
+  {
+    "City": "Lodi",
+    "State": "NJ",
+    "School": "Thomas Jefferson Middle School",
+    "Name": "Lodi-TJMS (invisible)",
+    "SubHeading": "Band & Orchestra Accessories",
+    "URL_Suffix": "Lodi-TJMS",
+    "URL": "https://www.shopnemc.com/category/Lodi-TJMS"
   }
 ]
