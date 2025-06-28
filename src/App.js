@@ -1,6 +1,4 @@
 import { React, useState } from "react";
-import * as ReactDOM from "react-dom/client";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import TextField from "@mui/material/TextField";
 import SchoolList from "./Components/SchoolList";
 import "./App.css";

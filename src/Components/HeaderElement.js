@@ -1,6 +1,5 @@
 import React from "react";
 import "./HeaderElement.css";
-import Button from "@mui/material/Button";
 import HeaderImage from "../Images/StoreToSchoolLogo.jpg";
 function HeaderElement() {
   return (
